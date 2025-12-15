@@ -1,0 +1,6032 @@
+[
+  {
+    "term": "Agniveer",
+    "translation": "अग्निवीर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "strategic position",
+    "translation": "सामरिक स्थिति",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "squad",
+    "translation": "दस्ता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "combat drill",
+    "translation": "युद्ध अभ्यास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "command",
+    "translation": "आदेश",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "return to base",
+    "translation": "बेस पर लौटो",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "assemble",
+    "translation": "एकत्रित हो",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "reconnaissance",
+    "translation": "टोही",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "defense zone",
+    "translation": "रक्षा क्षेत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "instructions",
+    "translation": "दिशा निर्देश",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "strike",
+    "translation": "प्रहार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "firearm",
+    "translation": "आग्नेयास्त्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "war",
+    "translation": "युद्ध",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "strategy",
+    "translation": "रणनीति",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "communication",
+    "translation": "संचार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "patrolling",
+    "translation": "गश्त",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "enemy",
+    "translation": "शत्रु",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "military",
+    "translation": "सैन्य",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "soldier",
+    "translation": "सैनिक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "commando",
+    "translation": "कमांडो",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "firing",
+    "translation": "गोलाबारी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "safe zone",
+    "translation": "सुरक्षित क्षेत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "gunfire",
+    "translation": "गोलीबारी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "bunker",
+    "translation": "बंकर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "explosive",
+    "translation": "विस्फोटक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "ammunition",
+    "translation": "गोला-बारूद",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "attack",
+    "translation": "हमला",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "defense",
+    "translation": "रक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "surrender",
+    "translation": "समर्पण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "operation",
+    "translation": "संचालन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "mission",
+    "translation": "मिशन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "armor",
+    "translation": "कवच",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "weapon",
+    "translation": "हथियार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "rifle",
+    "translation": "बंदूक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "bomb",
+    "translation": "बम",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "air force",
+    "translation": "वायु सेना",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "navy",
+    "translation": "नौसेना",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "army",
+    "translation": "थल सेना",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "binoculars",
+    "translation": "दूरबीन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "signal",
+    "translation": "सिग्नल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "stay alert",
+    "translation": "तैयार रहो",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "fall in",
+    "translation": "लाइन में लग जाओ",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "at ease",
+    "translation": "आराम से",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "attention",
+    "translation": "सावधान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "forward march",
+    "translation": "आगे बढ़ो",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "halt",
+    "translation": "रुको",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "take cover",
+    "translation": "छिप जाओ",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "cease fire",
+    "translation": "गोलीबारी बंद करो",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "engage target",
+    "translation": "लक्ष्य पर हमला करो",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "move out",
+    "translation": "निकल पड़ो",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "hold position",
+    "translation": "स्थिति बनाए रखो",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "report status",
+    "translation": "स्थिति की रिपोर्ट दो",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "assault rifle",
+    "translation": "असॉल्ट राइफल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "grenade launcher",
+    "translation": "ग्रेनेड लांचर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "night vision goggles",
+    "translation": "नाइट विजन गॉगल्स",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "body armor",
+    "translation": "बॉडी आर्मर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "mortar",
+    "translation": "मोर्टार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "anti-tank missile",
+    "translation": "एंटी टैंक मिसाइल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "sniper",
+    "translation": "निशानची",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "medic",
+    "translation": "चिकित्सक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "engineer",
+    "translation": "इंजीनियर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "scout",
+    "translation": "स्काउट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "rifleman",
+    "translation": "राइफल सैनिक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "machine gunner",
+    "translation": "मशीन गनर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "advance",
+    "translation": "आगे बढ़ना",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "formation",
+    "translation": "गठन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "bounding overwatch",
+    "translation": "बाउंडिंग ओवरवॉच",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "flanking maneuver",
+    "translation": "पार्श्व युद्धाभ्यास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "withdrawal",
+    "translation": "वापसी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "under attack",
+    "translation": "हमले के तहत",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "enemy sighted",
+    "translation": "शत्रु देखा गया",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "all clear",
+    "translation": "सब ठीक है",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "casualty",
+    "translation": "हताहत",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "situation report",
+    "translation": "स्थिति रिपोर्ट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "radar",
+    "translation": "दूर संवेदन यंत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "radio communication",
+    "translation": "रेडियो संचार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "surveillance drone",
+    "translation": "निगरानी मानव रहित यान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "landing zone",
+    "translation": "अवतरण क्षेत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "forward operating base",
+    "translation": "अग्रगामी संचालन आधार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "checkpoint",
+    "translation": "जाँच की चौकी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "trench",
+    "translation": "खाई",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "infantry",
+    "translation": "पैदल सेना",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "airborne unit",
+    "translation": "वायुवाहित इकाई",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "naval fleet",
+    "translation": "नौसैनिक बेड़ा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "special forces",
+    "translation": "विशेष बल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "artillery",
+    "translation": "तोपखाना",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "cavalry",
+    "translation": "घुड़सवार सेना",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "enemy ahead",
+    "translation": "शत्रु सामने है",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "air support",
+    "translation": "वायु समर्थन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "patrol unit",
+    "translation": "गश्ती दल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "target neutralization",
+    "translation": "लक्ष्य भेदन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "ambush",
+    "translation": "घात",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "perimeter",
+    "translation": "परिधि",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "sector",
+    "translation": "क्षेत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "objective",
+    "translation": "उद्देश्य",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "briefing",
+    "translation": "ब्रीफिंग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "debriefing",
+    "translation": "डिब्रीफिंग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "intel",
+    "translation": "खुफिया जानकारी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "contact",
+    "translation": "संपर्क",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "engagement",
+    "translation": "मुठभेड़",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "suppression",
+    "translation": "दमन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "cover fire",
+    "translation": "आड़ की आग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "flanking",
+    "translation": "पार्श्व से घेरना",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "extraction",
+    "translation": "निकासी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "insertion",
+    "translation": "प्रवेश",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "rally point",
+    "translation": "मिलन स्थल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "overwatch",
+    "translation": "निगरानी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "field of fire",
+    "translation": "गोलीबारी का क्षेत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "line of sight",
+    "translation": "दृष्टि रेखा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "concealment",
+    "translation": "छुपाव",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "camouflage",
+    "translation": "छद्मावरण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "fortification",
+    "translation": "किलेबंदी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "barricade",
+    "translation": "बैरिकेड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "stronghold",
+    "translation": "गढ़",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "outpost",
+    "translation": "चौकी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "garrison",
+    "translation": "छावनी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "headquarters",
+    "translation": "मुख्यालय",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "command post",
+    "translation": "कमान चौकी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "supply line",
+    "translation": "आपूर्ति लाइन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "logistics",
+    "translation": "रसद",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "convoy",
+    "translation": "काफिला",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "escort",
+    "translation": "एस्कॉर्ट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "surveillance",
+    "translation": "निगरानी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "intelligence",
+    "translation": "गुप्त सूचना",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "classified",
+    "translation": "गोपनीय",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "top secret",
+    "translation": "अति गुप्त",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "clearance",
+    "translation": "अनुमति",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "protocol",
+    "translation": "प्रोटोकॉल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "chain of command",
+    "translation": "कमान श्रृंखला",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "rank",
+    "translation": "रैंक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "officer",
+    "translation": "अधिकारी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "non-commissioned officer",
+    "translation": "अवर अधिकारी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "enlisted",
+    "translation": "भर्ती",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "recruit",
+    "translation": "रिक्रूट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "veteran",
+    "translation": "अनुभवी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "deployment",
+    "translation": "तैनाती",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "rotation",
+    "translation": "रोटेशन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "leave",
+    "translation": "छुट्टी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "duty",
+    "translation": "ड्यूटी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "guard duty",
+    "translation": "पहरेदारी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "sentry",
+    "translation": "चौकीदार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "watch",
+    "translation": "निगरानी ड्यूटी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "patrol",
+    "translation": "गश्त",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "border patrol",
+    "translation": "सीमा गश्त",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "frontier",
+    "translation": "सीमांत",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "border security",
+    "translation": "सीमा सुरक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "ceasefire",
+    "translation": "युद्धविराम",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "armistice",
+    "translation": "संधि",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "peace treaty",
+    "translation": "शांति संधि",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "negotiations",
+    "translation": "बातचीत",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "prisoner of war",
+    "translation": "युद्ध बंदी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "evacuation",
+    "translation": "निकासी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "medical evacuation",
+    "translation": "चिकित्सा निकासी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "first aid",
+    "translation": "प्राथमिक चिकित्सा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "field hospital",
+    "translation": "क्षेत्रीय अस्पताल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "triage",
+    "translation": "घायल वर्गीकरण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "wounded",
+    "translation": "घायल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "killed in action",
+    "translation": "कार्रवाई में मारा गया",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "missing in action",
+    "translation": "कार्रवाई में लापता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "search and rescue",
+    "translation": "खोज और बचाव",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "helicopter",
+    "translation": "चक्रपक्षी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "aircraft",
+    "translation": "विमान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "fighter jet",
+    "translation": "लड़ाकू विमान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "bomber",
+    "translation": "बमवर्षक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "transport plane",
+    "translation": "परिवहन विमान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "paratrooper",
+    "translation": "हवाई सैनिक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "parachute",
+    "translation": "छत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "drop zone",
+    "translation": "गिराने का क्षेत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "airfield",
+    "translation": "हवाई अड्डा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "runway",
+    "translation": "उड़ान पट्टी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "hangar",
+    "translation": "विमान कक्ष",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "maintenance",
+    "translation": "रखरखाव",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "fuel",
+    "translation": "ईंधन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "ammunition depot",
+    "translation": "गोला-बारूद भंडार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "armory",
+    "translation": "शस्त्रागार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "magazine",
+    "translation": "कारतूस धारक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "clip",
+    "translation": "गोली पट्टी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "cartridge",
+    "translation": "कारतूस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "bullet",
+    "translation": "गोली",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "grenade",
+    "translation": "हथगोला",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "mine",
+    "translation": "बारूदी सुरंग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "landmine",
+    "translation": "बारूदी सुरंग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "booby trap",
+    "translation": "जाल बम",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "improvised explosive device",
+    "translation": "इम्प्रोवाइज्ड एक्सप्लोसिव डिवाइस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "rocket launcher",
+    "translation": "रॉकेट प्रक्षेपक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "missile",
+    "translation": "प्रक्षेप्यास्त्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "tank",
+    "translation": "युद्धक टैंक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "armored vehicle",
+    "translation": "बख्तरबंद वाहन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "jeep",
+    "translation": "सैन्य जीप",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "truck",
+    "translation": "ट्रक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "supply truck",
+    "translation": "आपूर्ति ट्रक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "medical truck",
+    "translation": "चिकित्सा ट्रक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "communication truck",
+    "translation": "संचार ट्रक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "mobile command center",
+    "translation": "चलित कमान केंद्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "radio operator",
+    "translation": "रेडियो संचालक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "signal corps",
+    "translation": "संकेत कोर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "code",
+    "translation": "कोड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "cipher",
+    "translation": "गुप्त लिपि",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "encryption",
+    "translation": "एन्क्रिप्शन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "frequency",
+    "translation": "आवृत्ति",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "transmission",
+    "translation": "प्रसारण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "network",
+    "translation": "तंत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "connection",
+    "translation": "संयोजन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "satellite",
+    "translation": "उपग्रह",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "GPS",
+    "translation": "भूस्थिति प्रणाली",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "navigation",
+    "translation": "दिशा निर्देशन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "compass",
+    "translation": "कंपास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "map",
+    "translation": "मानचित्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "coordinates",
+    "translation": "निर्देशांक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "position",
+    "translation": "स्थिति",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "direction",
+    "translation": "दिशा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "east",
+    "translation": "पूर्व",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "west",
+    "translation": "पश्चिम",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "north",
+    "translation": "उत्तर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "south",
+    "translation": "दक्षिण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "elevation",
+    "translation": "ऊंचाई",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "sea level",
+    "translation": "समुद्र तल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "hilly terrain",
+    "translation": "पहाड़ी इलाका",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "plain terrain",
+    "translation": "मैदानी इलाका",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "forest",
+    "translation": "जंगल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "desert",
+    "translation": "रेगिस्तान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "coastal area",
+    "translation": "तटीय क्षेत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "river",
+    "translation": "नदी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "bridge",
+    "translation": "पुल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "road",
+    "translation": "सड़क",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "highway",
+    "translation": "राजमार्ग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "corridor",
+    "translation": "गलियारा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "route",
+    "translation": "मार्ग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "path",
+    "translation": "पथ",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "track",
+    "translation": "ट्रैक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "trail",
+    "translation": "निशान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "footprint",
+    "translation": "फुटप्रिंट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "hiding place",
+    "translation": "छुपने का स्थान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "shelter",
+    "translation": "आश्रय",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "cover",
+    "translation": "कवर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "shadow",
+    "translation": "छाया",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "night operation",
+    "translation": "रात्रि अभियान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "day operation",
+    "translation": "दिन का अभियान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "morning patrol",
+    "translation": "सुबह की गश्त",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "evening patrol",
+    "translation": "शाम की गश्त",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "midnight",
+    "translation": "मध्यरात्रि",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "dawn",
+    "translation": "भोर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "dusk",
+    "translation": "शाम",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "weather",
+    "translation": "मौसम",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "rain",
+    "translation": "बारिश",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "fog",
+    "translation": "धुंध",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "snow",
+    "translation": "बर्फ",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "blizzard",
+    "translation": "बर्फीला तूफान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "storm",
+    "translation": "तूफान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "wind",
+    "translation": "हवा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "temperature",
+    "translation": "तापमान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "visibility",
+    "translation": "दृश्यता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "clouds",
+    "translation": "बादल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "sun",
+    "translation": "सूर्य",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "moon",
+    "translation": "चांद",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "stars",
+    "translation": "तारे",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "darkness",
+    "translation": "अंधेरा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "light",
+    "translation": "प्रकाश",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "flashlight",
+    "translation": "कार्य दीप",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "torch",
+    "translation": "मशाल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "lamp",
+    "translation": "दीप",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "warning",
+    "translation": "चेतावनी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "alarm",
+    "translation": "चेतावनी घंटी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "siren",
+    "translation": "आपदा सायरन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "bell",
+    "translation": "घंटी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "horn",
+    "translation": "भोंपू",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "whistle",
+    "translation": "सीटी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "flare",
+    "translation": "प्रकाश बम",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "smoke",
+    "translation": "धुआं",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "smoke grenade",
+    "translation": "धुआं हथगोला",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "tear gas",
+    "translation": "आंसू गैस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "gas mask",
+    "translation": "गैस मुखावरण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "respirator",
+    "translation": "श्वसन यंत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "safety equipment",
+    "translation": "सुरक्षा उपकरण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "helmet",
+    "translation": "शिरस्त्राण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "boots",
+    "translation": "सैन्य जूते",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "uniform",
+    "translation": "वर्दी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "badge",
+    "translation": "चिह्न",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "ribbon",
+    "translation": "फीता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "medal",
+    "translation": "पदक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "honor",
+    "translation": "सम्मान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "bravery",
+    "translation": "वीरता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "courage",
+    "translation": "साहस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "fearlessness",
+    "translation": "निडरता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "sacrifice",
+    "translation": "बलिदान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "martyrdom",
+    "translation": "शहादत",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "service",
+    "translation": "सेवा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "responsibility",
+    "translation": "कर्तव्य",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "discipline",
+    "translation": "अनुशासन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "obedience",
+    "translation": "आज्ञाकारिता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "loyalty",
+    "translation": "निष्ठा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "dedication",
+    "translation": "निष्ठाभाव",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "commitment",
+    "translation": "प्रतिबद्धता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "unity",
+    "translation": "एकता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "teamwork",
+    "translation": "दल कार्य",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "cooperation",
+    "translation": "सहयोग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "coordination",
+    "translation": "समन्वय",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "synchronization",
+    "translation": "समकालिकता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "harmony",
+    "translation": "तालमेल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "rhythm",
+    "translation": "लय",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "speed",
+    "translation": "गति",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "swiftness",
+    "translation": "तेज़ी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "slow pace",
+    "translation": "धीमी गति",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "stop",
+    "translation": "रुकना",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "pause",
+    "translation": "ठहरना",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "break",
+    "translation": "विराम",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "rest",
+    "translation": "आराम",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "sleep",
+    "translation": "नींद",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "wake up",
+    "translation": "जागना",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "control room",
+    "translation": "नियंत्रण कक्ष",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "operation theater",
+    "translation": "अभियान क्षेत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "war zone",
+    "translation": "युद्ध क्षेत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "conflict zone",
+    "translation": "संघर्ष क्षेत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "peace zone",
+    "translation": "शांति क्षेत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "neutral zone",
+    "translation": "तटस्थ क्षेत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "no-fly zone",
+    "translation": "निषेध क्षेत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "security perimeter",
+    "translation": "सुरक्षा परिधि",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "danger zone",
+    "translation": "खतरा क्षेत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "kill zone",
+    "translation": "मृत्यु क्षेत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "escape route",
+    "translation": "निकासी मार्ग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "emergency exit",
+    "translation": "आपातकालीन निकास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "safe passage",
+    "translation": "सुरक्षित मार्ग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "infiltration",
+    "translation": "घुसपैठ",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "infiltrator",
+    "translation": "घुसपैठिया",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "terrorist",
+    "translation": "आतंकवादी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "insurgent",
+    "translation": "विद्रोही",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "guerrilla",
+    "translation": "गुरिल्ला",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "militia",
+    "translation": "मिलिशिया",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "paramilitary force",
+    "translation": "अर्धसैनिक बल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "Central Reserve Police Force",
+    "translation": "केंद्रीय रिजर्व पुलिस बल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "Border Security Force",
+    "translation": "सीमा सुरक्षा बल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "Indo-Tibetan Border Police",
+    "translation": "भारत तिब्बत सीमा पुलिस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "Central Industrial Security Force",
+    "translation": "केंद्रीय औद्योगिक सुरक्षा बल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "National Security Guard",
+    "translation": "राष्ट्रीय सुरक्षा गार्ड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "Special Protection Group",
+    "translation": "विशेष सुरक्षा दल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "commando force",
+    "translation": "कमांडो बल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "para commando",
+    "translation": "पैराशूट कमांडो",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "Garud commando",
+    "translation": "गरुड़ कमांडो",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "MARCOS",
+    "translation": "मार्कोस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "counter terrorism",
+    "translation": "आतंकवाद निरोधक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "counter insurgency",
+    "translation": "विद्रोह निरोधक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "internal security",
+    "translation": "आंतरिक सुरक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "border management",
+    "translation": "सीमा प्रबंधन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "anti-smuggling",
+    "translation": "तस्करी रोधी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "anti-narcotics",
+    "translation": "नशीले पदार्थ रोधी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "cyber warfare",
+    "translation": "साइबर युद्ध",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "electronic warfare",
+    "translation": "इलेक्ट्रॉनिक वारफेयर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "information warfare",
+    "translation": "सूचना युद्ध",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "psychological warfare",
+    "translation": "मनोवैज्ञानिक युद्ध",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "propaganda",
+    "translation": "प्रचार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "black operations",
+    "translation": "गुप्त अभियान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "covert operations",
+    "translation": "छुपे अभियान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "overt operations",
+    "translation": "खुले अभियान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "joint operations",
+    "translation": "संयुक्त अभियान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "tri-service operations",
+    "translation": "त्रिसेवा अभियान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "integrated defense",
+    "translation": "एकीकृत रक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "joint command",
+    "translation": "संयुक्त कमान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "theater command",
+    "translation": "रंगमंच कमान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "unified command",
+    "translation": "एकीकृत कमान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "Ministry of Defense",
+    "translation": "रक्षा मंत्रालय",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "defense research",
+    "translation": "रक्षा अनुसंधान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "DRDO",
+    "translation": "डीआरडीओ",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "defense production",
+    "translation": "रक्षा उत्पादन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "ordnance factory",
+    "translation": "आयुध निर्माणी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "Hindustan Aeronautics",
+    "translation": "हिंदुस्तान एयरोनॉटिक्स",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "Bharat Dynamics",
+    "translation": "भारत डायनामिक्स",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "Mazagon Dock",
+    "translation": "मजगांव डॉक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "Garden Reach Shipbuilders",
+    "translation": "गार्डन रीच शिपबिल्डर्स",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "Cochin Shipyard",
+    "translation": "कोचीन शिपयार्ड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "indigenization",
+    "translation": "स्वदेशीकरण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "self-reliance",
+    "translation": "आत्मनिर्भरता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "Make in India",
+    "translation": "मेक इन इंडिया",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "defense export",
+    "translation": "रक्षा निर्यात",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "defense import",
+    "translation": "रक्षा आयात",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "technology transfer",
+    "translation": "प्रौद्योगिकी हस्तांतरण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "defense cooperation",
+    "translation": "रक्षा सहयोग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "bilateral exercise",
+    "translation": "द्विपक्षीय अभ्यास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "multilateral exercise",
+    "translation": "बहुपक्षीय अभ्यास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "joint exercise",
+    "translation": "संयुक्त अभ्यास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "war games",
+    "translation": "युद्धाभ्यास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "field firing",
+    "translation": "क्षेत्रीय गोलीबारी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "live firing",
+    "translation": "सजीव गोलीबारी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "dry run",
+    "translation": "शुष्क अभ्यास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "simulation",
+    "translation": "अनुकरण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "war simulation",
+    "translation": "युद्ध अनुकरण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "disaster management",
+    "translation": "आपदा प्रबंधन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "relief and rescue",
+    "translation": "राहत और बचाव",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "humanitarian assistance",
+    "translation": "मानवीय सहायता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "peacekeeping",
+    "translation": "शांति स्थापना",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "peace enforcement",
+    "translation": "शांति प्रवर्तन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "peacebuilding",
+    "translation": "शांति निर्माण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "conflict resolution",
+    "translation": "संघर्ष समाधान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "confidence building",
+    "translation": "विश्वास निर्माण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "de-escalation",
+    "translation": "तनाव कम करना",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "Line of Actual Control",
+    "translation": "वास्तविक नियंत्रण रेखा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "Line of Control",
+    "translation": "नियंत्रण रेखा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "International Border",
+    "translation": "अंतर्राष्ट्रीय सीमा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "working boundary",
+    "translation": "कार्य रेखा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "military exercise",
+    "translation": "सैन्य अभ्यास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "naval exercise",
+    "translation": "नौसैनिक अभ्यास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "air force exercise",
+    "translation": "वायु सेना अभ्यास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "tri-service exercise",
+    "translation": "त्रि-सेवा अभ्यास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "missile test",
+    "translation": "मिसाइल परीक्षण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "nuclear test",
+    "translation": "परमाणु परीक्षण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "satellite launch",
+    "translation": "उपग्रह प्रक्षेपण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "space mission",
+    "translation": "अंतरिक्ष मिशन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "defense satellite",
+    "translation": "रक्षा उपग्रह",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "spy satellite",
+    "translation": "जासूसी उपग्रह",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "communication satellite",
+    "translation": "संचार उपग्रह",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "navigation satellite",
+    "translation": "नेवीगेशन सैटेलाइट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "weather satellite",
+    "translation": "मौसम उपग्रह",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "earth observation",
+    "translation": "पृथ्वी निगरानी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "remote sensing",
+    "translation": "रिमोट सेंसिंग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "geographic information",
+    "translation": "भौगोलिक सूचना",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "digital map",
+    "translation": "डिजिटल नक्शा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "3D map",
+    "translation": "त्रिआयामी नक्शा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "topography",
+    "translation": "स्थलाकृति",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "land survey",
+    "translation": "भू-सर्वेक्षण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "aerial survey",
+    "translation": "हवाई सर्वेक्षण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "drone survey",
+    "translation": "मानव रहित यान सर्वेक्षण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "aerial surveillance",
+    "translation": "हवाई निगरानी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "combat drone",
+    "translation": "युद्धक मानव रहित यान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "kamikaze drone",
+    "translation": "आत्मघाती मानव रहित यान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "autonomous weapon",
+    "translation": "स्वायत्त हथियार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "artificial intelligence",
+    "translation": "कृत्रिम बुद्धिमत्ता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "machine learning",
+    "translation": "मशीन लर्निंग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "robotics",
+    "translation": "रोबोटिक्स",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "combat robot",
+    "translation": "कॉम्बैट रोबोट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "surveillance robot",
+    "translation": "सर्विलांस रोबोट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "bomb disposal",
+    "translation": "बम निष्क्रियकरण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "explosive detection",
+    "translation": "विस्फोटक खोज",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "mine detector",
+    "translation": "बारूदी सुरंग खोजी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "metal detector",
+    "translation": "धातु खोजी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "X-ray machine",
+    "translation": "एक्स-किरण यंत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "scanner",
+    "translation": "संवेदी यंत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "biometric",
+    "translation": "जैविक पहचान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "fingerprint",
+    "translation": "अंगुली छाप",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "iris scan",
+    "translation": "नेत्र तारा जांच",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "face recognition",
+    "translation": "चेहरा पहचान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "voice recognition",
+    "translation": "आवाज पहचान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "identity card",
+    "translation": "पहचान पत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "security pass",
+    "translation": "सुरक्षा पास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "authorization letter",
+    "translation": "प्राधिकरण पत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "permission letter",
+    "translation": "अनुमति पत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "pass book",
+    "translation": "पास बुक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "gate pass",
+    "translation": "गेट पास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "vehicle pass",
+    "translation": "वाहन पास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "visitor pass",
+    "translation": "आगंतुक पास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "temporary pass",
+    "translation": "अस्थायी पास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "permanent pass",
+    "translation": "स्थायी पास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "emergency pass",
+    "translation": "आपातकालीन पास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "special pass",
+    "translation": "विशेष पास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "VIP pass",
+    "translation": "वीआईपी पास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "escort duty",
+    "translation": "एस्कॉर्ट ड्यूटी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "port security",
+    "translation": "बंदरगाह सुरक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "airport security",
+    "translation": "हवाई अड्डा सुरक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "railway security",
+    "translation": "रेलवे सुरक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "critical infrastructure",
+    "translation": "महत्वपूर्ण ढांचा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "strategic asset",
+    "translation": "रणनीतिक संपत्ति",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "national asset",
+    "translation": "राष्ट्रीय संपत्ति",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "secure installation",
+    "translation": "सुरक्षित स्थापना",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "classified area",
+    "translation": "वर्गीकृत क्षेत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "restricted area",
+    "translation": "प्रतिबंधित क्षेत्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "security clearance",
+    "translation": "सुरक्षा अनुमोदन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "secret clearance",
+    "translation": "गुप्त अनुमोदन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "top secret clearance",
+    "translation": "अति गुप्त अनुमोदन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "information security",
+    "translation": "सूचना सुरक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "data security",
+    "translation": "डेटा सुरक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "network security",
+    "translation": "नेटवर्क सिक्यूरिटी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "cyber security",
+    "translation": "साइबर सिक्यूरिटी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "digital security",
+    "translation": "डिजिटल सिक्यूरिटी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "internet security",
+    "translation": "इंटरनेट सिक्यूरिटी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "firewall",
+    "translation": "फायरवॉल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "antivirus",
+    "translation": "एंटीवायरस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "malware",
+    "translation": "मैलवेयर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "virus",
+    "translation": "वायरस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "trojan",
+    "translation": "ट्रोजन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "ransomware",
+    "translation": "रैंसमवेयर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "hacking",
+    "translation": "हैकिंग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "cyber attack",
+    "translation": "साइबर हमला",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "data theft",
+    "translation": "डेटा चोरी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "information leak",
+    "translation": "सूचना रिसाव",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "classified information",
+    "translation": "गुप्त जानकारी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "state secret",
+    "translation": "राष्ट्रीय रहस्य",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "official secret",
+    "translation": "सरकारी रहस्य",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "intelligence report",
+    "translation": "खुफिया रिपोर्ट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "situation assessment",
+    "translation": "स्थिति आकलन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "threat assessment",
+    "translation": "खतरा आकलन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "risk analysis",
+    "translation": "जोखिम विश्लेषण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "security assessment",
+    "translation": "सुरक्षा आकलन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "vulnerability assessment",
+    "translation": "भेद्यता आकलन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "readiness assessment",
+    "translation": "तैयारी आकलन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "capacity building",
+    "translation": "क्षमता निर्माण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "training program",
+    "translation": "प्रशिक्षण कार्यक्रम",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "skill development",
+    "translation": "कौशल विकास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "capability enhancement",
+    "translation": "क्षमता वृद्धि",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "modernization",
+    "translation": "आधुनिकीकरण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "upgradation",
+    "translation": "उन्नयन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "improvement",
+    "translation": "सुधार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "innovation",
+    "translation": "नवाचार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "research and development",
+    "translation": "अनुसंधान और विकास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "technical assistance",
+    "translation": "तकनीकी सहायता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "technical cooperation",
+    "translation": "तकनीकी सहयोग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "knowledge sharing",
+    "translation": "ज्ञान साझाकरण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "best practices",
+    "translation": "सर्वोत्तम प्रथाएं",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "standard operating procedure",
+    "translation": "मानक संचालन प्रक्रिया",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "procedure manual",
+    "translation": "प्रक्रिया मैनुअल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "operating instructions",
+    "translation": "संचालन निर्देश",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "safety instructions",
+    "translation": "सुरक्षा निर्देश",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "emergency procedure",
+    "translation": "आपातकालीन प्रक्रिया",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "crisis management",
+    "translation": "संकट प्रबंधन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "disaster preparedness",
+    "translation": "आपदा तैयारी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "emergency response",
+    "translation": "आपातकालीन प्रतिक्रिया",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "rapid response",
+    "translation": "त्वरित प्रतिक्रिया",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "immediate action",
+    "translation": "तत्काल कार्रवाई",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "rapid deployment",
+    "translation": "त्वरित तैनाती",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "mobile force",
+    "translation": "गतिशील बल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "strike force",
+    "translation": "प्रहार बल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "reserve force",
+    "translation": "आरक्षित बल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "backup force",
+    "translation": "पृष्ठ आधार बल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "support force",
+    "translation": "सहायता बल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "logistic support",
+    "translation": "रसद सहायता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "supply support",
+    "translation": "आपूर्ति सहायता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "technical support center",
+    "translation": "तकनीकी सहायता केंद्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "medical support",
+    "translation": "चिकित्सा सहायता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "fire support",
+    "translation": "अग्निशमन सहायता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "engineering support",
+    "translation": "अभियांत्रिकी सहायता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "communication support",
+    "translation": "संचार सहायता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "transport support",
+    "translation": "परिवहन सहायता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "fuel support",
+    "translation": "ईंधन सहायता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "supply chain",
+    "translation": "आपूर्ति श्रृंखला",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "distribution network",
+    "translation": "डिस्ट्रिब्यूशन नेटवर्क",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "storage facility",
+    "translation": "भंडारण सुविधा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "warehouse",
+    "translation": "गोदाम",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "depot",
+    "translation": "डिपो",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "central store",
+    "translation": "केंद्रीय भंडार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "regional store",
+    "translation": "क्षेत्रीय भंडार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "local store",
+    "translation": "स्थानीय भंडार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "emergency stock",
+    "translation": "आपातकालीन भंडार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "strategic reserve",
+    "translation": "रणनीतिक भंडार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "war reserve",
+    "translation": "युद्ध भंडार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "ordnance store",
+    "translation": "आयुध भंडार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "fuel reserve",
+    "translation": "ईंधन भंडार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "food reserve",
+    "translation": "खाद्य भंडार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "water reserve",
+    "translation": "पानी भंडार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "medical store",
+    "translation": "चिकित्सा भंडार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "medicine stock",
+    "translation": "दवा भंडार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "equipment store",
+    "translation": "उपकरण भंडार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "spare parts",
+    "translation": "स्पेयर पार्ट्स",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "maintenance kit",
+    "translation": "रखरखाव किट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "repair kit",
+    "translation": "मरम्मत किट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "tool kit",
+    "translation": "उपकरण किट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "first aid kit",
+    "translation": "प्राथमिक चिकित्सा किट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "emergency kit",
+    "translation": "आपातकालीन किट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "survival kit",
+    "translation": "जीवन रक्षक किट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "rescue equipment",
+    "translation": "बचाव उपकरण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "protective equipment",
+    "translation": "संरक्षण उपकरण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "personal safety equipment",
+    "translation": "व्यक्तिगत सुरक्षा उपकरण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "collective protection",
+    "translation": "सामूहिक सुरक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "nuclear protection",
+    "translation": "परमाणु सुरक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "chemical protection",
+    "translation": "रासायनिक सुरक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "biological protection",
+    "translation": "जैविक सुरक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "NBC protection",
+    "translation": "एनबीसी सुरक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "radiation protection",
+    "translation": "रेडिएशन सुरक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "decontamination",
+    "translation": "डिकंटामिनेशन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "purification",
+    "translation": "शुद्धिकरण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "cleaning",
+    "translation": "सफाई",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "disinfection",
+    "translation": "रोगाणुनाशन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "sterilization",
+    "translation": "नसबंदी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "hygiene",
+    "translation": "स्वच्छता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "sanitation",
+    "translation": "साफ-सफाई",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "environmental protection",
+    "translation": "पर्यावरण सुरक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "pollution control",
+    "translation": "प्रदूषण नियंत्रण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "waste management",
+    "translation": "अपशिष्ट प्रबंधन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "recycling",
+    "translation": "पुनर्चक्रण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "energy conservation",
+    "translation": "ऊर्जा संरक्षण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "green energy",
+    "translation": "हरित ऊर्जा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "renewable energy",
+    "translation": "नवीकरणीय ऊर्जा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "solar energy",
+    "translation": "सौर ऊर्जा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "wind energy",
+    "translation": "पवन ऊर्जा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "hydro energy",
+    "translation": "जल ऊर्जा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "nuclear energy",
+    "translation": "परमाणु ऊर्जा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "coal energy",
+    "translation": "कोयला ऊर्जा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "diesel generator",
+    "translation": "डीजल जेनरेटर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "power plant",
+    "translation": "पावर प्लांट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "power supply",
+    "translation": "बिजली आपूर्ति",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "backup power",
+    "translation": "बैकअप पावर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "blackout operations",
+    "translation": "अंधेरे में काम",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "night vision",
+    "translation": "रात्रि दृष्टि",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "thermal imaging",
+    "translation": "थर्मल इमेजिंग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "infrared",
+    "translation": "इंफ्रारेड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "ultrasonic",
+    "translation": "अल्ट्रासोनिक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "laser",
+    "translation": "लेजर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "laser range finder",
+    "translation": "लेजर रेंज फाइंडर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "laser designator",
+    "translation": "लेजर डिजाइनेटर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "laser guided",
+    "translation": "लेजर गाइडेड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "smart bomb",
+    "translation": "स्मार्ट बम",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "precision guided",
+    "translation": "प्रेसिजन गाइडेड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "GPS guided",
+    "translation": "जीपीएस गाइडेड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "homing missile",
+    "translation": "होमिंग मिसाइल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "anti-aircraft",
+    "translation": "एंटी एयरक्राफ्ट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "anti-ship",
+    "translation": "एंटी शिप",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "anti-submarine",
+    "translation": "एंटी सबमरीन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "anti-tank",
+    "translation": "एंटी टैंक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "anti-personnel",
+    "translation": "एंटी पर्सनल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "cluster bomb",
+    "translation": "क्लस्टर बम",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "cassette bomb",
+    "translation": "कैसेट बम",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "time bomb",
+    "translation": "टाइम बम",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "remote bomb",
+    "translation": "रिमोट बम",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "pressure bomb",
+    "translation": "प्रेशर बम",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "magnetic mine",
+    "translation": "मैग्नेटिक माइन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "acoustic mine",
+    "translation": "एकॉस्टिक माइन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "pressure mine",
+    "translation": "प्रेशर माइन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "anti-tank mine",
+    "translation": "एंटी टैंक माइन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "anti-personnel mine",
+    "translation": "एंटी पर्सनल माइन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "jumping mine",
+    "translation": "जंपिंग माइन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "directional mine",
+    "translation": "डायरेक्शनल माइन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "bouncing betty",
+    "translation": "बाउंसिंग बेट्टी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "claymore mine",
+    "translation": "क्लेमोर माइन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "rocket pod",
+    "translation": "रॉकेट पॉड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "multiple launcher",
+    "translation": "बहु प्रक्षेपक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "salvo fire",
+    "translation": "एकसाथ गोलीबारी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "barrage fire",
+    "translation": "बाधक गोलीबारी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "concentrated fire",
+    "translation": "केंद्रित गोलीबारी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "indirect fire",
+    "translation": "अप्रत्यक्ष गोलीबारी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "direct fire",
+    "translation": "प्रत्यक्ष गोलीबारी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "enfilade fire",
+    "translation": "पार्श्विक गोलीबारी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "crossfire",
+    "translation": "तिर्यक गोलीबारी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "suppressive fire",
+    "translation": "दमनकारी गोलीबारी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "harassing fire",
+    "translation": "परेशान करने वाली गोलीबारी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "interdiction fire",
+    "translation": "अवरोधक गोलीबारी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "counter battery",
+    "translation": "विरोधी तोपखाना",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "counter fire",
+    "translation": "प्रत्युत्तर गोलीबारी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "return fire",
+    "translation": "जवाबी गोलीबारी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "warning shot",
+    "translation": "चेतावनी गोली",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "tracer round",
+    "translation": "ट्रेसर राउंड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "incendiary round",
+    "translation": "इंसेंडियरी राउंड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "armor piercing",
+    "translation": "आर्मर पियर्सिंग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "high explosive",
+    "translation": "हाई एक्सप्लोसिव",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "shaped charge",
+    "translation": "शैपड चार्ज",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "tandem charge",
+    "translation": "टैंडम चार्ज",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "hollow charge",
+    "translation": "होलो चार्ज",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "pre-fragmented",
+    "translation": "प्री-फ्रैगमेंटेड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "frag grenade",
+    "translation": "फ्रैग ग्रेनेड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "concussion grenade",
+    "translation": "कन्कशन ग्रेनेड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "stun grenade",
+    "translation": "स्टन ग्रेनेड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "flash bang",
+    "translation": "फ्लैश बैंग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "disorientation",
+    "translation": "डिसओरिएंटेशन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "non-lethal",
+    "translation": "नॉन-लीथल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "less lethal",
+    "translation": "लेस लीथल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "rubber bullet",
+    "translation": "रबर बुलेट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "plastic bullet",
+    "translation": "प्लास्टिक बुलेट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "bean bag",
+    "translation": "बीन बैग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "water cannon",
+    "translation": "वाटर कैनन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "taser",
+    "translation": "टेजर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "electric shock",
+    "translation": "इलेक्ट्रिक शॉक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "pepper spray",
+    "translation": "पेप्पर स्प्रे",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "CS gas",
+    "translation": "सीएस गैस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "riot control",
+    "translation": "दंगा नियंत्रण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "crowd control",
+    "translation": "भीड़ नियंत्रण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "civil disorder",
+    "translation": "नागरिक अव्यवस्था",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "emergency management",
+    "translation": "आपातकालीन प्रबंधन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "incident management",
+    "translation": "घटना प्रबंधन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "command and control",
+    "translation": "कमान एवं नियंत्रण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "communication center",
+    "translation": "संचार केंद्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "operation center",
+    "translation": "अभियान केंद्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "control tower",
+    "translation": "नियंत्रण मीनार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "watch tower",
+    "translation": "निगरानी मीनार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "observation post",
+    "translation": "निरीक्षण चौकी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "listening post",
+    "translation": "लिसनिंग पोस्ट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "forward observer",
+    "translation": "फॉरवर्ड ऑब्जर्वर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "scout sniper",
+    "translation": "स्काउट स्निपर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "spotter",
+    "translation": "स्पॉटर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "designator",
+    "translation": "डेजिग्नेटर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "forward air controller",
+    "translation": "अग्रिम वायु नियंत्रक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "joint terminal attack controller",
+    "translation": "संयुक्त अंतिम आक्रमण नियंत्रक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "air traffic control",
+    "translation": "वायु यातायात नियंत्रण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "ground control",
+    "translation": "भूमि नियंत्रण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "tower control",
+    "translation": "मीनार नियंत्रण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "approach control",
+    "translation": "पहुंच नियंत्रण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "departure control",
+    "translation": "प्रस्थान नियंत्रण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "radar control",
+    "translation": "रडार नियंत्रण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "flight path",
+    "translation": "फ्लाइट पैथ",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "air corridor",
+    "translation": "एयर कॉरिडोर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "flight level",
+    "translation": "फ्लाइट लेवल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "altitude",
+    "translation": "एल्टिट्यूड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "cruising altitude",
+    "translation": "क्रूजिंग एल्टिट्यूड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "service ceiling",
+    "translation": "सर्विस सीलिंग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "range",
+    "translation": "रेंज",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "combat radius",
+    "translation": "कॉम्बैट रेडियस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "ferry range",
+    "translation": "फेरी रेंज",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "endurance",
+    "translation": "एंड्यूरेंस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "fuel capacity",
+    "translation": "फ्यूल कैपेसिटी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "payload",
+    "translation": "पेलोड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "max takeoff weight",
+    "translation": "मैक्स टेकऑफ वेट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "empty weight",
+    "translation": "एम्प्टी वेट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "gross weight",
+    "translation": "ग्रॉस वेट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "center of gravity",
+    "translation": "गुरुत्वाकर्षण केंद्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "balance",
+    "translation": "बैलेंस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "stability",
+    "translation": "स्टेबिलिटी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "controllability",
+    "translation": "नियंत्रणीयता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "maneuverability",
+    "translation": "युक्ति क्षमता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "agility",
+    "translation": "चुस्ती",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "performance",
+    "translation": "प्रदर्शन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "operational capability",
+    "translation": "परिचालन क्षमता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "tactical capability",
+    "translation": "सामरिक क्षमता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "strategic capability",
+    "translation": "रणनीतिक क्षमता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "nuclear capability",
+    "translation": "परमाणु क्षमता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "conventional capability",
+    "translation": "पारंपरिक क्षमता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "precision strike",
+    "translation": "सटीक प्रहार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "surgical strike",
+    "translation": "शल्य प्रहार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "pre-emptive strike",
+    "translation": "पूर्व निवारक प्रहार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "preventive strike",
+    "translation": "निवारक प्रहार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "counter strike",
+    "translation": "जवाबी हमला",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "retaliatory strike",
+    "translation": "मुंहतोड़ जवाब",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "massive retaliation",
+    "translation": "व्यापक प्रतिशोध",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "nuclear deterrence",
+    "translation": "परमाणु निवारण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "minimum deterrence",
+    "translation": "न्यूनतम निवारण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "credible deterrence",
+    "translation": "विश्वसनीय निवारण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "first strike",
+    "translation": "पहला प्रहार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "second strike",
+    "translation": "दूसरा प्रहार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "no first use",
+    "translation": "पहले इस्तेमाल न करने की नीति",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "nuclear triad",
+    "translation": "परमाणु त्रिकोण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "nuclear doctrine",
+    "translation": "परमाणु सिद्धांत",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "military doctrine",
+    "translation": "सैन्य सिद्धांत",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "defense doctrine",
+    "translation": "रक्षा सिद्धांत",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "national security",
+    "translation": "राष्ट्रीय सुरक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "security dilemma",
+    "translation": "सुरक्षा दुविधा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "balance of power",
+    "translation": "शक्ति संतुलन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "balance of terror",
+    "translation": "आतंक संतुलन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "arms race",
+    "translation": "हथियारों की होड़",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "arms control",
+    "translation": "हथियार नियंत्रण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "disarmament",
+    "translation": "निरस्त्रीकरण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "non-proliferation",
+    "translation": "अप्रसार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "nuclear non-proliferation",
+    "translation": "परमाणु अप्रसार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "test ban treaty",
+    "translation": "परीक्षण प्रतिबंध संधि",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "strategic arms limitation",
+    "translation": "रणनीतिक हथियार सीमा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "strategic arms reduction",
+    "translation": "रणनीतिक हथियार न्यूनीकरण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "confidence building measures",
+    "translation": "विश्वास निर्माण उपाय",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "transparency measures",
+    "translation": "पारदर्शिता उपाय",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "verification",
+    "translation": "सत्यापन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "monitoring",
+    "translation": "निगरानी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "inspection",
+    "translation": "निरीक्षण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "compliance",
+    "translation": "अनुपालन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "violation",
+    "translation": "उल्लंघन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "breach",
+    "translation": "भंग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "escalation",
+    "translation": "वृद्धि",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "trust building",
+    "translation": "विश्वास निर्माण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "dialogue",
+    "translation": "संवाद",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "diplomacy",
+    "translation": "कूटनीति",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "negotiation",
+    "translation": "बातचीत",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "mediation",
+    "translation": "मध्यस्थता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "arbitration",
+    "translation": "पंचाट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "peacemaking",
+    "translation": "शांति स्थापना",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "conflict prevention",
+    "translation": "संघर्ष रोकथाम",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "conflict transformation",
+    "translation": "संघर्ष रूपांतरण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "post-conflict",
+    "translation": "संघर्ष उपरांत",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "reconstruction",
+    "translation": "पुनर्निर्माण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "rehabilitation",
+    "translation": "पुनर्वास",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "reintegration",
+    "translation": "पुन: एकीकरण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "demobilization",
+    "translation": "विसैन्यीकरण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "main battle tank",
+    "translation": "मुख्य युद्ध टैंक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "infantry fighting vehicle",
+    "translation": "पैदल सेना लड़ाकू वाहन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "artillery gun",
+    "translation": "आर्टिलरी गन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "howitzer",
+    "translation": "होवित्जर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "field gun",
+    "translation": "फील्ड गन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "anti-aircraft gun",
+    "translation": "एंटी एयरक्राफ्ट गन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "machine gun",
+    "translation": "मशीन गन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "heavy machine gun",
+    "translation": "हैवी मशीन गन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "light machine gun",
+    "translation": "लाइट मशीन गन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "sub machine gun",
+    "translation": "सब मशीन गन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "pistol",
+    "translation": "पिस्तौल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "revolver",
+    "translation": "रिवॉल्वर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "carbine",
+    "translation": "कार्बाइन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "sniper rifle",
+    "translation": "स्नाइपर राइफल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "marksman rifle",
+    "translation": "मार्क्समैन राइफल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "shotgun",
+    "translation": "शॉटगन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "rocket propelled grenade",
+    "translation": "रॉकेट प्रोपेल्ड ग्रेनेड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "hand grenade",
+    "translation": "हैंड ग्रेनेड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "rifle grenade",
+    "translation": "रिफ्ल ग्रेनेड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "under barrel grenade launcher",
+    "translation": "अंडर बैरल ग्रेनेड लॉन्चर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "flame thrower",
+    "translation": "फ्लेम थ्रोअर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "sapper",
+    "translation": "सैपर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "mine clearance",
+    "translation": "माइन क्लीयरेंस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "demining",
+    "translation": "डिमाइनिंग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "explosive ordnance disposal",
+    "translation": "एक्सप्लोसिव ऑर्डनेंस डिस्पोजल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "roadside bomb",
+    "translation": "रोडसाइड बम",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "car bomb",
+    "translation": "कार बम",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "suicide bomb",
+    "translation": "सुसाइड बम",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "IED",
+    "translation": "आईईडी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "vehicle borne improvised explosive device",
+    "translation": "व्हीकल बॉर्न आईईडी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "person borne improvised explosive device",
+    "translation": "पर्सन बॉर्न आईईडी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "remote controlled improvised explosive device",
+    "translation": "रिमोट कंट्रोल्ड आईईडी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "timer controlled improvised explosive device",
+    "translation": "टाइमर कंट्रोल्ड आईईडी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "wire controlled improvised explosive device",
+    "translation": "वायर कंट्रोल्ड आईईडी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "pressure plate improvised explosive device",
+    "translation": "प्रेशर प्लेट आईईडी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "trip wire improvised explosive device",
+    "translation": "ट्रिप वायर आईईडी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "motion detector",
+    "translation": "गति संवेदक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "intrusion detection system",
+    "translation": "घुसपैठ पहचान प्रणाली",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "surveillance system",
+    "translation": "निगरानी प्रणाली",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "CCTV",
+    "translation": "सीसीटीवी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "remote sensor",
+    "translation": "दूरस्थ संवेदक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "acoustic sensor",
+    "translation": "ध्वनिक संवेदक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "seismic sensor",
+    "translation": "भूकंपी संवेदक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "magnetic sensor",
+    "translation": "चुंबकीय संवेदक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "infrared sensor",
+    "translation": "अवरक्त संवेदक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "radar sensor",
+    "translation": "रडार संवेदक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "laser sensor",
+    "translation": "लेजर संवेदक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "photo sensor",
+    "translation": "प्रकाश संवेदक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "pressure sensor",
+    "translation": "दबाव संवेदक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "temperature sensor",
+    "translation": "तापमान संवेदक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "humidity sensor",
+    "translation": "आर्द्रता संवेदक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "chemical sensor",
+    "translation": "रासायनिक संवेदक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "nuclear radiation detector",
+    "translation": "न्यूक्लियर रेडिएशन डिटेक्टर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "geiger counter",
+    "translation": "गीगर काउंटर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "dosimeter",
+    "translation": "डोसीमीटर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "radiation survey meter",
+    "translation": "रेडिएशन सर्वे मीटर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "contamination monitor",
+    "translation": "कंटामिनेशन मॉनिटर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "gas detector",
+    "translation": "गैस खोजी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "smoke detector",
+    "translation": "धुआं खोजी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "fire detector",
+    "translation": "अग्नि खोजी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "heat detector",
+    "translation": "ऊष्मा खोजी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "flame detector",
+    "translation": "ज्वाला खोजी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "explosive vapor detector",
+    "translation": "एक्सप्लोसिव वेपर डिटेक्टर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "drug detector",
+    "translation": "ड्रग डिटेक्टर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "canine unit",
+    "translation": "कनाइन यूनिट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "bomb sniffing dog",
+    "translation": "बॉम्ब स्निफिंग डॉग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "drug sniffing dog",
+    "translation": "ड्रग स्निफिंग डॉग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "tracking dog",
+    "translation": "ट्रैकिंग डॉग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "guard dog",
+    "translation": "गार्ड डॉग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "patrol dog",
+    "translation": "पैट्रोल डॉग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "attack dog",
+    "translation": "आक्रमण कुत्ता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "war dog",
+    "translation": "वॉर डॉग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "military working dog",
+    "translation": "मिलिट्री वर्किंग डॉग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "police dog",
+    "translation": "पुलिस डॉग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "search and rescue dog",
+    "translation": "सर्च एंड रेस्क्यू डॉग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "cadaver dog",
+    "translation": "कैडेवर डॉग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "tracking and tracing",
+    "translation": "ट्रैकिंग एंड ट्रेसिंग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "forensic investigation",
+    "translation": "न्यायालयिक जांच",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "crime scene investigation",
+    "translation": "घटनास्थल जांच",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "ballistic analysis",
+    "translation": "प्रक्षेप्य विश्लेषण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "fingerprint analysis",
+    "translation": "अंगुली छाप विश्लेषण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "DNA analysis",
+    "translation": "डीएनए विश्लेषण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "voice analysis",
+    "translation": "स्वर विश्लेषण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "handwriting analysis",
+    "translation": "हस्तलेख विश्लेषण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "document analysis",
+    "translation": "दस्तावेज विश्लेषण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "image analysis",
+    "translation": "छवि विश्लेषण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "video analysis",
+    "translation": "वीडियो विश्लेषण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "audio analysis",
+    "translation": "ध्वनि विश्लेषण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "photo reconnaissance",
+    "translation": "फोटो रिकॉन्सेंस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "aerial photography",
+    "translation": "एरियल फोटोग्राफी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "satellite imagery",
+    "translation": "उपग्रह चित्रण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "remote sensing imagery",
+    "translation": "रिमोट सेंसिंग इमेजरी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "intelligence gathering",
+    "translation": "इंटेलिजेंस गैदरिंग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "intelligence analysis",
+    "translation": "गुप्तचर विश्लेषण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "intelligence dissemination",
+    "translation": "इंटेलिजेंस डिसेमिनेशन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "intelligence sharing",
+    "translation": "इंटेलिजेंस शेयरिंग",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "intelligence fusion",
+    "translation": "इंटेलिजेंस फ्यूजन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "human intelligence",
+    "translation": "ह्यूमन इंटेलिजेंस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "signal intelligence",
+    "translation": "सिग्नल इंटेलिजेंस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "image intelligence",
+    "translation": "इमेज इंटेलिजेंस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "open source intelligence",
+    "translation": "ओपन सोर्स इंटेलिजेंस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "technical intelligence",
+    "translation": "टेक्निकल इंटेलिजेंस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "electronic intelligence",
+    "translation": "विद्युत गुप्तचर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "communication intelligence",
+    "translation": "संचार गुप्तचर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "foreign instrumentation signals intelligence",
+    "translation": "फॉरेन इंस्ट्रुमेंटेशन सिग्नल्स इंटेलिजेंस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "measurement and signature intelligence",
+    "translation": "मैस्क इंटेलिजेंस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "counter intelligence",
+    "translation": "प्रति गुप्तचरी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "counter espionage",
+    "translation": "प्रति जासूसी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "counter surveillance",
+    "translation": "प्रति निगरानी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "counter reconnaissance",
+    "translation": "प्रति टोही",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "disinformation",
+    "translation": "डिसइन्फॉर्मेशन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "misinformation",
+    "translation": "भ्रामक सूचना",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "psychological operations",
+    "translation": "मनोवैज्ञानिक अभियान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "information operations",
+    "translation": "सूचना अभियान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "cyber operations",
+    "translation": "साइबर संक्रियाएं",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "electronic attack",
+    "translation": "विद्युत आक्रमण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "electronic protection",
+    "translation": "विद्युत संरक्षण",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "electronic support",
+    "translation": "विद्युत सहायता",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "electronic surveillance",
+    "translation": "विद्युत निगरानी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "electronic countermeasures",
+    "translation": "विद्युत प्रतिरोधी उपाय",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "electronic counter countermeasures",
+    "translation": "विद्युत प्रति प्रतिरोधी उपाय",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "radar jamming",
+    "translation": "रडार व्यवधान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "communication jamming",
+    "translation": "संचार व्यवधान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "GPS jamming",
+    "translation": "उपग्रह व्यवधान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "GPS spoofing",
+    "translation": "उपग्रह भ्रामक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "cyber defense",
+    "translation": "साइबर रक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "application security",
+    "translation": "अनुप्रयोग सुरक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "endpoint security",
+    "translation": "अंतिम बिंदु सुरक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "cloud security",
+    "translation": "बादल सुरक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "mobile security",
+    "translation": "मोबाइल सुरक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "wireless security",
+    "translation": "बेतार सुरक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "email security",
+    "translation": "ईमेल सुरक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "web security",
+    "translation": "वेब सुरक्षा",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "field marshal",
+    "translation": "फील्ड मार्शल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "general",
+    "translation": "जनरल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "lieutenant general",
+    "translation": "लेफ्टिनेंट जनरल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "major general",
+    "translation": "मेजर जनरल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "brigadier",
+    "translation": "ब्रिगेडियर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "colonel",
+    "translation": "कर्नल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "lieutenant colonel",
+    "translation": "लेफ्टिनेंट कर्नल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "major",
+    "translation": "मेजर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "captain",
+    "translation": "कैप्टन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "lieutenant",
+    "translation": "लेफ्टिनेंट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "second lieutenant",
+    "translation": "सेकंड लेफ्टिनेंट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "subedar major",
+    "translation": "सूबेदार मेजर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "subedar",
+    "translation": "सूबेदार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "naib subedar",
+    "translation": "नायब सूबेदार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "havildar",
+    "translation": "हवलदार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "naik",
+    "translation": "नायक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "lance naik",
+    "translation": "लांस नायक",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "sepoy",
+    "translation": "सिपाही",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "admiral",
+    "translation": "एडमिरल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "vice admiral",
+    "translation": "वाइस एडमिरल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "rear admiral",
+    "translation": "रियर एडमिरल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "commodore",
+    "translation": "कमोडोर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "captain navy",
+    "translation": "कैप्टन नौसेना",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "commander",
+    "translation": "कमांडर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "lieutenant commander",
+    "translation": "लेफ्टिनेंट कमांडर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "lieutenant navy",
+    "translation": "लेफ्टिनेंट नौसेना",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "sub lieutenant",
+    "translation": "सब लेफ्टिनेंट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "master chief petty officer",
+    "translation": "मास्टर चीफ पेट्टी ऑफिसर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "chief petty officer",
+    "translation": "चीफ पेट्टी ऑफिसर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "petty officer",
+    "translation": "पेट्टी ऑफिसर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "leading seaman",
+    "translation": "लीडिंग सीमैन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "able seaman",
+    "translation": "एबल सीमैन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "ordinary seaman",
+    "translation": "ऑर्डिनरी सीमैन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "air chief marshal",
+    "translation": "एयर चीफ मार्शल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "air marshal",
+    "translation": "एयर मार्शल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "air vice marshal",
+    "translation": "एयर वाइस मार्शल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "air commodore",
+    "translation": "एयर कमोडोर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "group captain",
+    "translation": "ग्रुप कैप्टन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "wing commander",
+    "translation": "विंग कमांडर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "squadron leader",
+    "translation": "स्क्वाड्रन लीडर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "flight lieutenant",
+    "translation": "फ्लाइट लेफ्टिनेंट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "flying officer",
+    "translation": "फ्लाइंग ऑफिसर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "pilot officer",
+    "translation": "पायलट ऑफिसर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "warrant officer",
+    "translation": "वारंट ऑफिसर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "junior warrant officer",
+    "translation": "जूनियर वारंट ऑफिसर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "sergeant",
+    "translation": "सार्जेंट",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "corporal",
+    "translation": "कॉर्पोरल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "leading aircraftman",
+    "translation": "लीडिंग एयरक्राफ्टमैन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "aircraftman",
+    "translation": "एयरक्राफ्टमैन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "parade ground",
+    "translation": "परेड ग्राउंड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "drill square",
+    "translation": "ड्रिल स्क्वायर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "ceremonial parade",
+    "translation": "औपचारिक परेड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "guard of honor",
+    "translation": "गार्ड ऑफ ऑनर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "changing of guard",
+    "translation": "चेंजिंग ऑफ गार्ड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "military band",
+    "translation": "मिलिट्री बैंड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "pipe band",
+    "translation": "पाइप बैंड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "bugler",
+    "translation": "बिगलर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "drummer",
+    "translation": "ड्रमर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "color party",
+    "translation": "कलर पार्टी",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "standard bearer",
+    "translation": "स्टैंडर्ड बेयरर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "flag bearer",
+    "translation": "फ्लैग बेयरर",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "national flag",
+    "translation": "राष्ट्रीय ध्वज",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "regimental colors",
+    "translation": "रेजिमेंटल कलर्स",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "battle honors",
+    "translation": "बैटल ऑनर्स",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "unit citation",
+    "translation": "यूनिट साइटेशन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "gallantry award",
+    "translation": "वीरता पुरस्कार",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "param vir chakra",
+    "translation": "परम वीर चक्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "maha vir chakra",
+    "translation": "महा वीर चक्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "vir chakra",
+    "translation": "वीर चक्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "ashok chakra",
+    "translation": "अशोक चक्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "kirti chakra",
+    "translation": "कीर्ति चक्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "shaurya chakra",
+    "translation": "शौर्य चक्र",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "sena medal",
+    "translation": "सेना मेडल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "nao sena medal",
+    "translation": "नौ सेना मेडल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "vayu sena medal",
+    "translation": "वायु सेना मेडल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "vishisht seva medal",
+    "translation": "विशिष्ट सेवा मेडल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "ati vishisht seva medal",
+    "translation": "अति विशिष्ट सेवा मेडल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "uttam yudh seva medal",
+    "translation": "उत्तम युद्ध सेवा मेडल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "yuddh seva medal",
+    "translation": "युद्ध सेवा मेडल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "sainya seva medal",
+    "translation": "सैन्य सेवा मेडल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "parakram medal",
+    "translation": "पराक्रम मेडल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "pravasi bharatiya samman",
+    "translation": "प्रवासी भारतीय सम्मान",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "raksha mantri medal",
+    "translation": "रक्षा मंत्री मेडल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "chief of army staff commendation",
+    "translation": "चीफ ऑफ आर्मी स्टाफ कमेंडेशन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "chief of naval staff commendation",
+    "translation": "चीफ ऑफ नेवल स्टाफ कमेंडेशन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "chief of air staff commendation",
+    "translation": "चीफ ऑफ एयर स्टाफ कमेंडेशन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "army commander commendation",
+    "translation": "आर्मी कमांडर कमेंडेशन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "naval commander commendation",
+    "translation": "नेवल कमांडर कमेंडेशन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "air officer commanding commendation",
+    "translation": "एयर ऑफिसर कमांडिंग कमेंडेशन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "general officer commanding commendation",
+    "translation": "जनरल ऑफिसर कमांडिंग कमेंडेशन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "mention in dispatches",
+    "translation": "मेंशन इन डिस्पैचेज",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "unit appreciation",
+    "translation": "यूनिट एप्रिसिएशन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "commendation card",
+    "translation": "कमेंडेशन कार्ड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "good service record",
+    "translation": "गुड सर्विस रिकॉर्ड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "exemplary record",
+    "translation": "एक्जेम्प्लरी रिकॉर्ड",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "distinguished service",
+    "translation": "डिस्टिंग्विश्ड सर्विस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "meritorious service",
+    "translation": "मेरिटोरियस सर्विस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "faithful service",
+    "translation": "फेथफुल सर्विस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "long service",
+    "translation": "लॉन्ग सर्विस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "war service",
+    "translation": "वार सर्विस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "peacekeeping service",
+    "translation": "पीसकीपिंग सर्विस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "frontier service",
+    "translation": "फ्रंटियर सर्विस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "counter insurgency service",
+    "translation": "काउंटर इंसर्जेंसी सर्विस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "counter terrorism service",
+    "translation": "काउंटर टेरेरिज्म सर्विस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "United Nations service",
+    "translation": "यूनाइटेड नेशन्स सर्विस",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "peacekeeping medal",
+    "translation": "पीसकीपिंग मेडल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "UN mission medal",
+    "translation": "यूएन मिशन मेडल",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "service ribbon",
+    "translation": "सर्विस रिबन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "campaign ribbon",
+    "translation": "कैम्पेन रिबन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "theater ribbon",
+    "translation": "थिएटर रिबन",
+    "language": "hi",
+    "reverse": true
+  },
+  {
+    "term": "operation ribbon",
+    "translation": "अभियान फीता",
+    "language": "hi",
+    "reverse": true
+  }
+]

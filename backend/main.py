@@ -130,6 +130,28 @@ async def translate_audio(
         "audio_url": None # No auto-generated audio
     }
 
+from pydantic import BaseModel
+
+class TextTranslationRequest(BaseModel):
+    text: str
+    src_lang: str
+    tgt_lang: str
+
+@app.post("/translate-text")
+async def translate_text(request: TextTranslationRequest):
+    if not trans_service:
+        raise HTTPException(status_code=503, detail="Models not loaded")
+    
+    try:
+        print(f"Translating Text ({request.src_lang}->{request.tgt_lang})...")
+        translation = trans_service.translate(request.text, src_lang=request.src_lang, tgt_lang=request.tgt_lang)
+        print(f"Translation: {translation}")
+        return {"translation": translation}
+    except Exception as e:
+         print(f"Translation Error: {e}")
+         traceback.print_exc()
+         raise HTTPException(status_code=500, detail=f"Translation Error: {str(e)}")
+
 @app.post("/speak-text")
 async def speak_text(
     text: str = Form(...),

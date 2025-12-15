@@ -4,6 +4,8 @@ import whisper
 import scipy.io.wavfile
 import librosa
 import numpy as np
+import json
+import re
 from transformers import M2M100ForConditionalGeneration, M2M100Tokenizer, VitsModel, AutoTokenizer
 from core import config
 
@@ -101,12 +103,81 @@ class TranslationService:
         self.model.to(self.device)
         print(f"M2M100 Loaded on {self.device}.")
 
+        # Load Context Dictionary
+        self.context_dict = []
+        try:
+            dict_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "core", "context_dictionary.json")
+            with open(dict_path, "r", encoding="utf-8") as f:
+                self.context_dict = json.load(f)
+            print(f"Context Dictionary Loaded ({len(self.context_dict)} entries).")
+        except Exception as e:
+            print(f"Context Dictionary Load Error: {e}")
+
+    def _protect_terms(self, text, src_lang, tgt_lang):
+        """
+        Identify protected terms and replace them with a placeholder OR the target translation if known.
+        Strategy: 
+        1. Find matches in source text.
+        2. If match found, check if we have a target translation in dict.
+        3. If yes, substitute it directly but marked? 
+           Actually, M2M100 might mess up mixed script. 
+           Better strategy:
+           - Replace term with a unique placeholder (e.g. __TERM_1__)
+           - Translate text.
+           - Replace placeholder with Target Term.
+        """
+        protected_map = {}
+        processed_text = text
+        
+        counter = 0
+        # Sort by length desc to handle overlapping terms (e.g. "air traffic control" vs "air traffic")
+        # Filter terms relevant to source/target if possible, or just scan all.
+        sorted_terms = sorted(self.context_dict, key=lambda x: len(x['term']), reverse=True)
+        
+        for entry in sorted_terms:
+            term_en = entry['term'].lower()
+            term_tgt = entry['translation']
+            
+            # Simple check: Are we translating EN -> HI?
+            if src_lang == 'en' and tgt_lang == 'hi':
+                pattern = re.compile(re.escape(term_en), re.IGNORECASE)
+                matches = pattern.findall(processed_text)
+                if matches:
+                    placeholder = f"__CTX_{counter}__"
+                    protected_map[placeholder] = term_tgt # Map to HINDI translation
+                    processed_text = pattern.sub(placeholder, processed_text)
+                    counter += 1
+            
+            # HI -> EN
+            elif src_lang == 'hi' and tgt_lang == 'en':
+                 # User inputs Hindi term, we want English output
+                 pattern = re.compile(re.escape(term_tgt), re.IGNORECASE)
+                 matches = pattern.findall(processed_text)
+                 if matches:
+                    placeholder = f"__CTX_{counter}__"
+                    protected_map[placeholder] = term_en # Map to ENGLISH term
+                    processed_text = pattern.sub(placeholder, processed_text)
+                    counter += 1
+
+        return processed_text, protected_map
+
     def translate(self, text, src_lang, tgt_lang):
-        # M2M100 language codes often match ISO 2 letter codes, but consistent checking is good.
+        # 1. Apply Context Protection
+        masked_text, protection_map = self._protect_terms(text, src_lang, tgt_lang)
+        
+        # 2. Translate
         self.tokenizer.src_lang = src_lang
-        encoded_hi = self.tokenizer(text, return_tensors="pt").to(self.device)
+        encoded_hi = self.tokenizer(masked_text, return_tensors="pt").to(self.device)
         generated_tokens = self.model.generate(**encoded_hi, forced_bos_token_id=self.tokenizer.get_lang_id(tgt_lang))
-        return self.tokenizer.batch_decode(generated_tokens, skip_special_tokens=True)[0]
+        translated_text = self.tokenizer.batch_decode(generated_tokens, skip_special_tokens=True)[0]
+        
+        # 3. Restore Protected Terms
+        for placeholder, replacement in protection_map.items():
+            translated_text = translated_text.replace(placeholder, replacement)
+            # Cleanup potential spacing issues around placeholders if M2M100 added them
+            # e.g. " __CTX_0__ "
+            
+        return translated_text
 
 class TTSService:
     def __init__(self):

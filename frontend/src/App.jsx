@@ -1,16 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import './index.css';
-
-const LANGUAGES = [
-  { code: 'en', name: 'English' },
-  { code: 'fr', name: 'French' },
-  { code: 'de', name: 'German' },
-  { code: 'es', name: 'Spanish' },
-  { code: 'hi', name: 'Hindi' },
-  { code: 'zh', name: 'Chinese' },
-  { code: 'ar', name: 'Arabic' },
-  { code: 'ru', name: 'Russian' },
-];
+import { LANGUAGES } from './constants/languages';
+import LanguageSelector from './components/LanguageSelector';
 
 function App() {
   const [isRecording, setIsRecording] = useState(false);
@@ -121,8 +112,30 @@ function App() {
   const copyToClipboard = (text) => {
     if (!text) return;
     navigator.clipboard.writeText(text);
-    // Simple alert or toast could be added here. 
-    // For now we assume user knows it worked or we add a small visual cue if needed.
+  };
+
+  const handleTranslateText = async () => {
+    if (!transcript.trim()) return;
+    setIsProcessing(true);
+    try {
+      const response = await fetch('http://localhost:8000/translate-text', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          text: transcript,
+          src_lang: srcLang,
+          tgt_lang: tgtLang
+        })
+      });
+      if (!response.ok) throw new Error("Translation failed");
+      const data = await response.json();
+      setTranslation(data.translation);
+    } catch (err) {
+      console.error(err);
+      alert("Text Translation failed.");
+    } finally {
+      setIsProcessing(false);
+    }
   };
 
   return (
@@ -130,24 +143,40 @@ function App() {
       <div className="glass-panel">
         <h1 className="title">Live Audio Translator</h1>
 
-        <div className="controls">
-          <select
-            className="lang-select"
-            value={srcLang}
-            onChange={(e) => setSrcLang(e.target.value)}
-          >
-            {LANGUAGES.map(l => <option key={l.code} value={l.code}>{l.name}</option>)}
-          </select>
+        <div className="controls-container">
+          <div className="language-group">
+            <LanguageSelector
+              languages={LANGUAGES}
+              selectedCode={srcLang}
+              onChange={setSrcLang}
+            />
+          </div>
 
-          <span style={{ alignSelf: 'center', fontSize: '1.5rem' }}>→</span>
-
-          <select
-            className="lang-select"
-            value={tgtLang}
-            onChange={(e) => setTgtLang(e.target.value)}
+          <button
+            className="exchange-btn"
+            title="Swap Languages"
+            onClick={() => {
+              const temp = srcLang;
+              setSrcLang(tgtLang);
+              setTgtLang(temp);
+              setTranscript(translation);
+              setTranslation(transcript);
+            }}
+            disabled={isProcessing}
           >
-            {LANGUAGES.map(l => <option key={l.code} value={l.code}>{l.name}</option>)}
-          </select>
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M7 16V4M7 4L3 8M7 4L11 8" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+              <path d="M17 8V20M17 20L21 16M17 20L13 16" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+            </svg>
+          </button>
+
+          <div className="language-group">
+            <LanguageSelector
+              languages={LANGUAGES}
+              selectedCode={tgtLang}
+              onChange={setTgtLang}
+            />
+          </div>
         </div>
 
         <div style={{ display: 'flex', justifyContent: 'center', margin: '2rem' }}>
@@ -197,7 +226,27 @@ function App() {
                 </button>
               </div>
             </div>
-            <p className="output-text">{transcript || "Waiting for speech..."}</p>
+            <textarea
+              className="output-text editable-area"
+              value={transcript}
+              onChange={(e) => setTranscript(e.target.value)}
+              placeholder="Type or paste text here..."
+            />
+          </div>
+
+          {/* Center Action Button */}
+          <div className="center-action">
+            <button
+              className="translate-action-btn"
+              onClick={() => handleTranslateText()}
+              disabled={isProcessing}
+              title="Translate Input Text"
+            >
+              <svg width="28" height="28" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M5 12H19" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" />
+                <path d="M12 5L19 12L12 19" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" />
+              </svg>
+            </button>
           </div>
 
           {/* Translation Panel */}
