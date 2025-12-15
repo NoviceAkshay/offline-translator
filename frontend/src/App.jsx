@@ -10,6 +10,28 @@ function App() {
   const [translation, setTranslation] = useState('');
   const [srcLang, setSrcLang] = useState('en');
   const [tgtLang, setTgtLang] = useState('fr');
+  const [theme, setTheme] = useState('dark');
+
+  // Load theme from local storage or system preference
+  useEffect(() => {
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme) {
+      setTheme(savedTheme);
+      document.documentElement.setAttribute('data-theme', savedTheme);
+    } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) {
+      setTheme('light');
+      document.documentElement.setAttribute('data-theme', 'light');
+    } else {
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+  }, []);
+
+  const toggleTheme = () => {
+    const newTheme = theme === 'light' ? 'dark' : 'light';
+    setTheme(newTheme);
+    document.documentElement.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+  };
 
   const mediaRecorderRef = useRef(null);
   const chunksRef = useRef([]);
@@ -140,7 +162,14 @@ function App() {
 
   return (
     <div className="app-container">
-      <div className="glass-panel">
+      <div className="glass-panel" style={{ position: 'relative' }}>
+        <button
+          className="theme-toggle"
+          onClick={toggleTheme}
+          title={`Switch to ${theme === 'light' ? 'Dark' : 'Light'} Mode`}
+        >
+          {theme === 'light' ? '🌙' : '☀️'}
+        </button>
         <h1 className="title">Live Audio Translator</h1>
 
         <div className="controls-container">
